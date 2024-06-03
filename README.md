@@ -1,16 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        Im DDICKY RAMADAN
+        IM DDICKY RAMADAN
     </head>
     <body>
-        <p> 👋 Hi, I’m DICKY RAMADAN
-- 🔭 I’m curently working on Shopee Indonesia
-- 🌱 I’m currently learning katalon, java
-- 💬 Ask me any questions 
-- 📫 How to reach me @rdiki189@gmail.com
-</p>
-        <p>Paragraf adalah kumpulan dari beberapa kalimat yang saling
-        mendukung. Punya ide pokok sebagai dasar dari paragraf itu sendiri.</p>
+        <p> 👋 Hi, I’m DICKY RAMADAN </p>
+<P> - 🌱 I’m currently learning katalon, java</P>      
+<p>🔭 I’m curently working on Shopee Indonesia</p>
+<P> 💬 Ask me any questions</P>
+<P>📫 How to reach me @rdiki189@gmail.com</P>
     </body>
 </html>
