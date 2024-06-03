@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <title>Tutorial Paragraf di HTML</title>
+        Im DDICKY RAMADAN
     </head>
     <body>
         <p>Ini adalah sebuah paragraf yang berisi beberapa kalimat.
