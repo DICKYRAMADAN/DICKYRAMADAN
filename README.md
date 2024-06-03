@@ -4,9 +4,12 @@
         Im DDICKY RAMADAN
     </head>
     <body>
-        <p>Ini adalah sebuah paragraf yang berisi beberapa kalimat.
-        Saya sedang belajar HTML di Petani Kode. Saat ini Sedang,
-        Belajar tentang paragraf.</p>
+        <p> 👋 Hi, I’m DICKY RAMADAN
+- 🔭 I’m curently working on Shopee Indonesia
+- 🌱 I’m currently learning katalon, java
+- 💬 Ask me any questions 
+- 📫 How to reach me @rdiki189@gmail.com
+</p>
         <p>Paragraf adalah kumpulan dari beberapa kalimat yang saling
         mendukung. Punya ide pokok sebagai dasar dari paragraf itu sendiri.</p>
     </body>
