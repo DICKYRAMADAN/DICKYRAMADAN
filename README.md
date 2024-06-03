@@ -1,9 +1,4 @@
-<!---doctype html
-<html lang="en">
-<head>
-<title>DICKY RAMADAN</title>
-<body>
-  <p>- 👋 Hi, I’m DICKY RAMADAN
+<!--- 👋 Hi, I’m DICKY RAMADAN
 - 🔭 I’m curently working on Shopee Indonesia
 - 🌱 I’m currently learning katalon, java
 - 💬 Ask me any questions 
