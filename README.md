@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning katalon, java
 - 💬 Ask me any questions 
 - 📫 How to reach me @rdiki189@gmail.com
-- 📄 Know about my experiences </p>
-</head>
+- 📄 Know about my experiences 
 
 
 --->
